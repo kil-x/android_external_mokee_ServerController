@@ -1318,5 +1318,21 @@
     "battery": "2900 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
+  },
+    "zeroltexx": {
+    "cpu": "Samsung Exynos 7420",
+    "ram": "4GB",
+    "rom": "32GB",
+    "battery": "3000 mAh",
+    "display": "5.7 inch, 2560×1440 pixel(518ppi)",
+    "cpuarch": "arm"
+  },
+    "SM-G9280": {
+    "cpu": "Samsung Exynos 7420",
+    "ram": "4GB",
+    "rom": "32GB",
+    "battery": "3000 mAh",
+    "display": "5.7 inch, 2560×1440 pixel(518ppi)",
+    "cpuarch": "arm"
   }
 }
